@@ -1,0 +1,7 @@
+FROM ubuntu:14.04
+
+MAINTAINER Florian Bogenhard
+
+ENV REFRESHED_AT 2015-02-08
+
+VOLUME /data
